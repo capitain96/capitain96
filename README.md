@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @capitain96
 - 👀 I’m interested in anything related to cybersecurity, be it network, mobile or web.
-- 🌱 I’m currently learning python, C# and Haskell.
-- 💞️ I’m looking to collaborate on anything security related. That does not exclude building software, but it's not my strong feat.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on anything security related. That does not exclude building software, but it's not my strong feat. I can write C#, some basic java and javascript.
 
 <!---
 capitain96/capitain96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
